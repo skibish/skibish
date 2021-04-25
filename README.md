@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If you want to contact me or know more, [welcome to my website](https://sergeykibish.com)!
+
 <!--
 **skibish/skibish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
