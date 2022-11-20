@@ -2,7 +2,9 @@
 
 If you want to contact me or know more, [welcome to my website](https://sergeykibish.com)!
 
-On Mastodon: <a rel="me" href="https://hachyderm.io/@skibish">@skibish</a>
+Blog: https://sergeykibish.com/blog
+
+Mastodon: <a rel="me" href="https://hachyderm.io/@skibish">`@skibish@hachyderm.io`</a>
 
 <!--
 **skibish/skibish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
